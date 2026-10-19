@@ -49,7 +49,14 @@ This bill is mostly fit for the country from where I am building this (Nepal), i
 | **Total** | | **$22.03** _(Without Shipping)_|
 
 _Prices may fluctuate_
-<br>_PCB prices yet to be found_
+<br>_PCB prices (JLCPCB)
+<br> PCB price = $10.30
+<br> Delivery fee (the resonably priced one takes long 18-24 days) = $15.33 OR a faster one at ~35$ for shipping
+<br> Total = 25.63 (but with a coupon for new user it becomes 15.33)
+
+<br><img width="1313" height="698" alt="image" src="https://github.com/user-attachments/assets/76f4387f-3865-43fc-ae94-438269b520c5" />
+
+
 <img width="1209" height="508" alt="image" src="https://github.com/user-attachments/assets/b8042103-e81b-497b-a573-3017fd8e17cf" />
 <img width="1253" height="495" alt="image" src="https://github.com/user-attachments/assets/7a65ec73-e1d3-4444-a52a-7d95d7134755" />
 <img width="1313" height="693" alt="image" src="https://github.com/user-attachments/assets/09e8c3e1-4651-4751-873e-6ea7fa75f65b" />
