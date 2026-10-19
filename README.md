@@ -54,6 +54,10 @@ _Prices may fluctuate_
 <br> Delivery fee (the resonably priced one takes long 18-24 days) = $15.33 OR a faster one at ~35$ for shipping
 <br> Total = 25.63 (but with a coupon for new user it becomes 15.33)
 
+<br>So pcb + other parts = $37.36 (Over the 30$ grant)
+<br> So i would fund the rest with my own budget
+
+
 <br><img width="1313" height="698" alt="image" src="https://github.com/user-attachments/assets/76f4387f-3865-43fc-ae94-438269b520c5" />
 
 
