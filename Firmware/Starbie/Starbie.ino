@@ -2,7 +2,11 @@
   Starbie: a tiny motion-controlled digital pet
 
   This is intentionally one file. Open this .ino file in Arduino IDE, edit
-  the BEGINNER SETTINGS section, and upload it to a Seeed XIAO ESP32-C3.
+  the BEGINNER SETTINGS section, and upload it to an ESP32-C3 SuperMini.
+
+  Arduino IDE board settings (Tools menu):
+    - Board: ESP32C3 Dev Module
+    - USB CDC On Boot: Enabled   (needed for Serial output over USB-C)
 
   Install these libraries with Sketch > Include Library > Manage Libraries:
     - Adafruit GFX Library
@@ -24,12 +28,12 @@
 // Everything most builders will want to customize is in this one section.
 
 // --- Your board's pins ----------------------------------------------------
-// These are ESP32-C3 GPIO numbers, with the XIAO pin labels beside them.
-const int I2C_SDA_PIN = 7;       // XIAO D4: OLED + MPU6050 SDA
-const int I2C_SCL_PIN = 6;       // XIAO D5: OLED + MPU6050 SCL
-const int DHT_PIN = 3;           // XIAO D1: DHT11 data
-const int BUTTON_ONE_PIN = 4;    // XIAO D2: opens/confirms the radial menu
-const int BUTTON_TWO_PIN = 5;    // XIAO D3: shows/hides stats
+// These are ESP32-C3 SuperMini GPIO numbers (they match the schematic).
+const int I2C_SDA_PIN = 7;       // GPIO7: OLED + MPU6050 SDA
+const int I2C_SCL_PIN = 6;       // GPIO6: OLED + MPU6050 SCL
+const int DHT_PIN = 3;           // GPIO3: DHT11 data
+const int BUTTON_ONE_PIN = 4;    // GPIO4 (SW1): opens/confirms the radial menu
+const int BUTTON_TWO_PIN = 5;    // GPIO5 (SW2): shows/hides stats
 
 // Set this to false if your submission does not have a DHT11.
 const bool USE_DHT11 = true;
