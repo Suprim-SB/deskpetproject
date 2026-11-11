@@ -51,7 +51,7 @@ This bill is mostly fit for the country from where I am building this (Nepal), i
 _Prices may fluctuate_
 <br>_PCB prices (JLCPCB)
 <br> PCB price = $4
-<br> Delivery fee (the resonably priced one takes long 18-24 days) = $16.66 (for two pcbs) OR a faster one at ~35$ for shipping
+<br> Delivery fee (the resonably priced one takes long 18-24 days) = $16.66 OR a faster one at ~35$ for shipping
 <br> Total = $22.16 (but with a coupon for new user it becomes 12.16)
 <br> *I was going to order two pcbs at the same time and get divide the shipping fee but since the second project wont get approved by then, i will not be able to do so*
 <br>So pcb + other parts = 26.39$
