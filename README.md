@@ -53,9 +53,8 @@ _Prices may fluctuate_
 <br> PCB price = $4
 <br> Delivery fee (the resonably priced one takes long 18-24 days) = $16.66 (for two pcbs) OR a faster one at ~35$ for shipping
 <br> Total = $22.16 (but with a coupon for new user it becomes 12.16)
-<br> *But Im ordering two pcbs at the same time so the shipping price is split between the two, total will be cheaper for me (6.08)*
-
-<br>So pcb + other parts = 20.31$
+<br> *I was going to order two pcbs at the same time and get divide the shipping fee but since the second project wont get approved by then, i will not be able to do so*
+<br>So pcb + other parts = 26.39$
 
 
 
