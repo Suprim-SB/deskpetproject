@@ -53,14 +53,15 @@ This bill is mostly fit for the country from where I am building this (Nepal), i
 _Prices may fluctuate_
 <br>_PCB prices (JLCPCB)
 <br> PCB price = $4
-<br> Delivery fee (the resonably priced one takes long 18-24 days) = $16.66 OR a faster one at ~35$ for shipping
-<br> Total = $22.16 (but with a coupon for new user it becomes 12.16)
+<br> Delivery fee (the reasonably priced one takes long 18-24 days) = $13.30 ; E-Post
+<br> Total = $17.30 (but with a coupon for new user it becomes 13.30)
 <br> *I was going to order two pcbs at the same time and get divide the shipping fee but since the second project wont get approved by then, i will not be able to do so*
-<br>So pcb + other parts = 26.39$
+<br>So pcb + other parts = 27.53$
 
 
 
-<br> <img width="927" height="482" alt="image" src="https://github.com/user-attachments/assets/ebca591a-4198-43b1-b6cc-321ff19fd81e" />
+<br> <img width="926" height="485" alt="image" src="https://github.com/user-attachments/assets/524cba19-286f-4a8c-bcb7-624ce9a709b8" />
+
 
 <br> <img width="926" height="484" alt="image" src="https://github.com/user-attachments/assets/7dc236a2-9760-4abc-a74f-5275f9227b38" />
 <br> <img width="927" height="484" alt="image" src="https://github.com/user-attachments/assets/4f12b5a0-153a-4b28-90aa-8ef5dcef2b49" />
