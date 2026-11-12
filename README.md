@@ -32,7 +32,8 @@ The PCB design, firmware, Schematics, Gerber Files and the BOM are uploaded here
 
 # Project Photos:
 Schematic:
-<br><img width="773" height="621" alt="image" src="https://github.com/user-attachments/assets/53c5d06c-34aa-4a0b-a912-8ff6b715fbe1" />
+<br><img width="704" height="437" alt="image" src="https://github.com/user-attachments/assets/b4de2bab-5b85-4e6e-9846-998f78f6bcd2" />
+
 <br>PCB:
 <br><img width="825" height="585" alt="image" src="https://github.com/user-attachments/assets/9d2df044-a335-4ec5-81d5-87b9baf5eb02" />
 
