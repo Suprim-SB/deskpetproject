@@ -50,15 +50,15 @@ This bill is mostly fit for the country from where I am building this (Nepal), i
 | GY-521 MPU6050 Accelerometer and Gyroscope | [Himalayan Solutions](https://himalayansolution.com/product/mpu-6050-module) | $2.33 |
 | Keycaps (Pack of 21) (×1) | [Aliexpress](https://www.aliexpress.com/item/1005012239749346.html?spm=a2g0o.productlist.main.3.3f144d549mz35h&algo_pvid=506c8727-3e36-41af-bb6c-d233ef1303f6&algo_exp_id=506c8727-3e36-41af-bb6c-d233ef1303f6-2&pdp_ext_f=%7B%22order%22%3A%2215%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NPR%211280.25%21163.79%21%21%218.52%211.09%21%402101528c17943132790031985e0ef3%2112000057855706932%21sea%21NP%216050325592%21ABX%211%210%21n_tag%3A-29910%3Bd%3A4b5c7ce9%3Bm03_new_user%3A-29895%3BpisId%3A5000000219357547&curPageLogUid=ADOSwM0hiseN&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012239749346%7C_p_origin_prod%3A) | $1.10 |
 | HMX Taro Ball Linear Switch (×2) | [ErgoKeys Nepal](https://ergokeysnepal.com/product/hmx-taro-ball-linear-switch/) | $0.84 |
-| **Total** | | **$14.23** _(Including shipping)_|
+| **Total** | | **$14.9** _(Including shipping from Ekaithu and Himalayan Solutions)_|
 
 _Prices may fluctuate_
-<br>_PCB prices (JLCPCB)
+<br>**PCB prices (JLCPCB)**
 <br> PCB price = $4
 <br> Delivery fee (the reasonably priced one takes long 18-24 days) = $13.30 ; E-Post
 <br> Total = $17.30 (but with a coupon for new user it becomes 13.30)
 <br> *I was going to order two pcbs at the same time and get divide the shipping fee but since the second project wont get approved by then, i will not be able to do so*
-<br>So pcb + other parts = 27.53$
+<br>**TOTAL (Including Shipping)** = 28.2$
 
 
 
