@@ -11,6 +11,7 @@ A desk pet is a project that is intended to sit at your desk and add some person
 
 # WHY?
 This project was made to be the project for the week 1 of Hack Club half life. It is me following a guided project as a complete beginner. It is also to learn the basics of hardware and electronics to create more unique projects in the future of my own!
+<br>*(This project has a few changes like the microcontroller I used and others, to account for local availability)*
 
 # HOW TO START MAKING?
 Starbie is actually not that hard to make!. It just requirs a bit of patience and the eagerness to learn. And it is really customizable too. You can change its shape to whatever you want, add custom functions, reduce complexity if you are a beginner or add even more stuff if you know what your doing. This build of Starbie has the function to detect movement and also the environment!
@@ -36,7 +37,8 @@ Schematic:
 <br><img width="704" height="437" alt="image" src="https://github.com/user-attachments/assets/b4de2bab-5b85-4e6e-9846-998f78f6bcd2" />
 
 <br>PCB:
-<br><img width="825" height="585" alt="image" src="https://github.com/user-attachments/assets/9d2df044-a335-4ec5-81d5-87b9baf5eb02" />
+<br><img width="522" height="415" alt="image" src="https://github.com/user-attachments/assets/2a61c40c-3eaa-4dd0-8f2f-d6ed86a6137a" />
+
 
 #Bill of Materials:
 This bill is mostly fit for the country from where I am building this (Nepal), if if it isn't possible to buy these items from where you are, you could resort to international vendors.
