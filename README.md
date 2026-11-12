@@ -1,6 +1,7 @@
 # DESK PET
 A desk pet called Starbie. Starbie is a tiny, starry digital pet that replaces traditional buttons with pure gesture control.
-<img width="756" height="549" alt="image" src="https://github.com/user-attachments/assets/0e9ab4dc-95c5-44de-a162-58f8a8a11e35" />
+<img width="488" height="355" alt="image" src="https://github.com/user-attachments/assets/c51fd43b-7b67-4224-b421-c181de2e729b" />
+
 
 
 # WHAT IS IT?
